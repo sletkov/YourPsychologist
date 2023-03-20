@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h1">30sp</dimen>
+    <dimen name="h2">25sp</dimen>
+    <dimen name="h3">20sp</dimen>
+    <dimen name="defaultText">16sp</dimen>
+</resources>

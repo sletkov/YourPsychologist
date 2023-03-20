@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Твой психолог</string>
+    <string name="title_name">Твой Психолог</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wrong_input">Неправильный ввод</string>
+    <string name="empty_text" />
+    <string name="non_empty_fields_message">Нужно заполнить оба поля</string>
+    <string name="bad_login_or_password_message">Неправильный логин или пароль</string>
+    <string name="login_error_message">Ошибка при выходе</string>
+    <string name="success_register_message">Вы зарегистрированы! Войдите в приложение</string>
+    <string name="login_already_exist_message">Пользователь с таким логином уже существует</string>
+    <string name="empty_psychologists_message">Список психологов пуст</string>
+    <string name="input_login">Введите логин</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="login">Вход</string>
+    <string name="register">Регистрация</string>
+    <string name="about_title">О приложении</string>
+    <string name="profile">Профиль</string>
+    <string name="logout">Выйти</string>
+    <string name="psychologists">Записаться к психологу</string>
+    <string name="articles">Полезные статьи</string>
+    <string name="textAbout">Данные приложение создано для оказания психологической помощи</string>
+    <string name="text_main">Обратитесь к психологу, или прочитайте полезную статью</string>
+</resources>
